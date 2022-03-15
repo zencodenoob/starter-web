@@ -13,3 +13,7 @@ This is an introduction
 
 This is a guide on how to contribute
 Hello
+
+#Adding copyright to the file
+
+This file here is copy righted
